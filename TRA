@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+    <h1 class="quem-e-brandon">contato</h1>
+   <h3>Se voçe quiser me conehecer melhor entre e contato comigo, estou dispoto a aprebder mais e fazer amizades</h3>
+   <header>
+
+    <form action="https://formsubmit.co/brandonnarutos3@gmail.com"></form>
+    <label for="email">E-mail</E-mail></label>
+    <input type="email">
+    <button>Fale comigo</button>
+   </header>
+
+
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hobbies</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+    <h1 class="quem-e-brandon">Hobbies</h1>
+    <div>
+    <h3>Meus hobbies são jogar diversos tipos de jogos, sair com os amigos e dança, e uma paixão que tenho desde pequeno</h3>
+    </div>
+    <div>
+        <h3>Além disso amo conher novas culturas e coisas que fogem do comum, por isso estou sempre aprendendo algo novo</h3>
+    </div>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brandon</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <nav class="cabecalho-menu">
+            <a class="cabecalho-menu-iten" href="quemsou.html">Quem sou</a>
+            <a class="cabecalho-menu-iten" href="hobbies.html">Hobbies </a>
+            <a class="cabecalho-menu-iten" href="contato.html">Contato </a>
+        </nav>
+
+    </header>
+
+    <main>
+        <h1 class="apresentação"> Olá me chamo brandon tenho 24 anos e sou apaixonado por tecnologia</h1>
+        <div class="cabeça">
+            <img class="cabecalho-imagem" src="/image/Brandon para pag.jpg" alt="foto brandon">
+            <h2>Sou nascido e criado no rio de janeiro, sou uma pessoa com muitos gostos diversos e diferentes, venha me conhcer!!!!</h2>
+            <button class="button">Me conheça <a href="quemsou.html"></a>
+            </button> 
+        </div>
+      
+
+
+    </main>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quem sou</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+    <h1 class="quem-e-brandon">Quem é brandon ?</h1>
+    <did>
+        <h3>Um menino nascido no dia 24/07/1998 do signo de leao </h3>
+        <h3>Gosto muito de musica, escuto todo tipo, mas meus generos preferidos são:POP, K-POP</h3>
+
+
+    </did>
+</body>
+</html>
